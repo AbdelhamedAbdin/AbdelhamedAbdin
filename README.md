@@ -88,27 +88,8 @@ I'm a seasoned backend engineer with 4+ years of experience crafting scalable, m
 
 **Senior Backend Developer @ Abdul Latif Jameel Finance**  
 📍 Cairo, Egypt  
-As a key member of the backend engineering team, I’m responsible for architecting and maintaining the company’s core backend systems. My work supports a wide range of internal processes, integrations, and critical business services. Key contributions include:
 
-🧱 Developed a core application architecture to centralize and streamline business processes across multiple departments.
-
-🧾 Designed and implemented an eKYC (electronic Know Your Customer) workflow, enhancing user verification with secure and scalable backend logic.
-
-🔐 Integrated Microsoft Azure AD into Django applications for authentication, role-based access control, and permission management.
-
-🔄 Built full-stack integrations with external services, including:
-  🧠 Taran’s AI-based decision engine for risk analysis.
-  💳 Fawry payment gateway for secure transaction processing.
-
-🗂️ Collaborated cross-functionally with the MIS team to extend and optimize the company’s OTRS ticketing and support system.
-
-🗃️ Led the design of database schemas, including ERD creation, indexing strategies, and performance tuning in PostgreSQL.
-
-✅ Implemented test coverage using unittest and pytest, following modular testing practices to ensure code stability while not yet using automated CI/CD tools, tests are actively run and maintained during development.
-
-⚙️ Managed Dockerized deployments, utilizing Docker Compose, Nginx, and SSL certificates for secure and maintainable server environments.
-
-🏛️ Contributed to the design and implementation of learning (LMS) and loan (LOS) management systems.
+Working on core backend systems that connect multiple platforms and services across the business. I focus on secure integrations, scalable architecture, and DevOps workflows — using Django, Azure AD, PostgreSQL, Docker, and custom pipelines to deliver high-impact backend solutions.
 
 ---
 
