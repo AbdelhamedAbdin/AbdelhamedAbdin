@@ -121,7 +121,7 @@ As a key member of the backend engineering team, I’m responsible for architect
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelhamed-abdin-%F0%9F%87%B5%F0%9F%87%B8-21118914a/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelhamed-abdin-21118914a/)
 - ✉️ Email: f.lancer3abdin@gmail.com
 - 💻 [Upwork](https://www.upwork.com/freelancers/~0116b3815d228f60d7)
 
